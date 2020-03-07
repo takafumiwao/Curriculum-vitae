@@ -9,13 +9,16 @@
 |Education|IVY総合技術工学院 公務員ビジネス学科卒|
 
 ## アウトプット
-### Github
+#### Github
 https://github.com/takafumiwao
 
-### iOSアプリ
+#### iOSアプリ
 IroIroColor： https://apps.apple.com/us/app/iroirocolor/id1486062426
+<br>
 24Timer: https://apps.apple.com/us/app/24timer/id1441900447?mt=8
+<br>
 Babascore2： https://apps.apple.com/us/app/babascore2/id1468592706
+<br>
 
 ## 資格
 |資格名 |取得年月 |
@@ -42,39 +45,38 @@ Babascore2： https://apps.apple.com/us/app/babascore2/id1468592706
 - Java
 
 ## 経歴
+### 職業訓練  iPhoneアプリ開発科受講(2018年6月~11月)
+#### iPhoneアプリ開発における基礎内容の実践、課題演習
+<br><br>
+-プログラミング言語　
+ - 変数、定数、制御構文、配列、構造体、列挙型の理解と利用
+ - プロトコルとジェネリクスの理解と利用
+ - クラスとオブジェクトの理解と利用
+-SQLite
+ - select文、insert文、update文、delete文の理解と利用
+-ユーザーインターフェイス
+ - 画面の描画、Storyboard、Autolayoutの理解と利用、セグエを使った画面遷移ファイル操作、HTTP通信、メール送信、位置情報の利用、UIViewアニメーションとCALayerの利用、多言語対応、設定画面の作成
+-HTTP通信
+ - Data型の扱いと並列プログラミング処理の理解と利用
+ - WEBAPIの理解と利用
+<br>
+### 株式会社メガテクノロジー入社(2019年1月)
+#### 東京オープンデータアプリコンテストに提出するためのアプリ開発(2019年1月~2月)
+<br><br>
+-コーディング
+ -Python
+  Djangoを使用したサーバーサイドの作成
+ -Swift
+  WebAPIとの連携、HTTP通信<br>
+  TableView,CollecttionViewを利用し画面作成<br>
+  MapKitの利用<br>
+ -Lynux
+  Lynuxの基礎の理解と利用<br>
 
-職業訓練 iPhoneアプリ開発科受講
-iPhoneアプリ開発における基礎内容の実践、課題演習
+#### 大手メーカー系での構成管理(2019年3月)
+-テスト
+ -単体・結合テスト
+ バージョン変更による動作確認
 
-・プログラミング言語　
-変数、定数、制御構文、配列、構造体、列挙型の理解と利用。
-プロトコルとジェネリクスの理解と利用
-クラスとオブジェクトの理解と利用。
-・SQL
-select文、insert文、update文、delete文の利用と理解
-関数の利用、表結合、制約の付与、ビュー、インデックスの活用。
-副問い合わせ、プログラミング言語との連携
-・iOS
-画面の描画、タッチイベント、タイマーの利用,UIKitの画面部品の利用、ターゲットアクションイベントとデリゲートによるイベント処理方法
-Storyboardの利用、Autolayoutの理解、セグウェイを使った画面遷移、ファイル操作、HTTP通信、メール送信、位置情報の利用、UIV
-iewアニメーションとCALayerの利用、多言語対応、設定画面の作成
-
-株式会社メガテクノロジー入社
-東京オープンデータアプリコンテストに提出するためのアプリ開発
-・要件定義
-・設計
-・コーディング
-・Python
-Djangoを使用したサーバーサイドの作成
-・iOS
-WebAPIとの連携、HTTP通信
-TableView,CollecttionViewを利用し画面作成
-mapKitの利用
-・Lynux
-Lynuxの基本操作、サーバー構築の基礎の
-理解
-
-大手メーカー系にて構成管理
-
-大手建機メーカー系にてWeb・API開発を行う
+#### 大手建機メーカー系でのWeb開発(2019年4月~現在)
 
