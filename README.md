@@ -47,31 +47,31 @@ Babascore2： https://apps.apple.com/us/app/babascore2/id1468592706
 ## 経歴
 ### 職業訓練  iPhoneアプリ開発科受講(2018年6月~11月)
 #### iPhoneアプリ開発における基礎内容の実践、課題演習
-<br><br>
--プログラミング言語　
+<br>
+- プログラミング言語　
  - 変数、定数、制御構文、配列、構造体、列挙型の理解と利用
  - プロトコルとジェネリクスの理解と利用
  - クラスとオブジェクトの理解と利用
--SQLite
+- SQLite
  - select文、insert文、update文、delete文の理解と利用
--ユーザーインターフェイス
+- ユーザーインターフェイス
  - 画面の描画、Storyboard、Autolayoutの理解と利用、セグエを使った画面遷移ファイル操作、HTTP通信、メール送信、位置情報の利用、UIViewアニメーションとCALayerの利用、多言語対応、設定画面の作成
--HTTP通信
+- HTTP通信
  - Data型の扱いと並列プログラミング処理の理解と利用
  - WEBAPIの理解と利用
 <br>
-### 株式会社メガテクノロジー入社(2019年1月)
+### 株式会社メガテクノロジー入社(2019年1月~現在)
 #### 東京オープンデータアプリコンテストに提出するためのアプリ開発(2019年1月~2月)
-<br><br>
--コーディング
- -Python
-  Djangoを使用したサーバーサイドの作成
- -Swift
-  WebAPIとの連携、HTTP通信<br>
-  TableView,CollecttionViewを利用し画面作成<br>
-  MapKitの利用<br>
- -Lynux
-  Lynuxの基礎の理解と利用<br>
+<br>
+- コーディング
+ - Python
+   Djangoを使用したサーバーサイドの作成
+ - Swift
+   WebAPIとの連携、HTTP通信<br>
+   TableView,CollecttionViewを利用し画面作成<br>
+   MapKitの利用<br>
+ - Lynux
+   Lynuxの基礎の理解と利用<br>
 
 #### 大手メーカー系での構成管理(2019年3月)
 -テスト
