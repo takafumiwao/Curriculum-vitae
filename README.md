@@ -30,16 +30,13 @@ Babascore2： https://apps.apple.com/us/app/babascore2/id1468592706
 
 ## プログラミング言語
 #### 研修・業務で一定期間以上使った言語
-- HTML
-- css
-- Javascript
+- HTML,CSS,JavaScript
 - C#
   - .NET framework
   - .NET core
 - VB.NET
 - Swift
 - Python
-  - Django
 
 #### 自身で勉強した言語
 - Java
@@ -47,7 +44,7 @@ Babascore2： https://apps.apple.com/us/app/babascore2/id1468592706
 ## 経歴
 ### 職業訓練  iPhoneアプリ開発科受講(2018年6月~11月)
 #### iPhoneアプリ開発における基礎内容の実践、課題演習
-<br>
+
 - プログラミング言語　
  - 変数、定数、制御構文、配列、構造体、列挙型の理解と利用
  - プロトコルとジェネリクスの理解と利用
@@ -59,17 +56,17 @@ Babascore2： https://apps.apple.com/us/app/babascore2/id1468592706
 - HTTP通信
  - Data型の扱いと並列プログラミング処理の理解と利用
  - WEBAPIの理解と利用
-<br>
+ 
 ### 株式会社メガテクノロジー入社(2019年1月~現在)
 #### 東京オープンデータアプリコンテストに提出するためのアプリ開発(2019年1月~2月)
-<br>
+
 - コーディング
  - Python
    Djangoを使用したサーバーサイドの作成
  - Swift
    WebAPIとの連携、HTTP通信<br>
    TableView,CollecttionViewを利用し画面作成<br>
-   MapKitの利用<br>
+   MapKitの利用
  - Lynux
    Lynuxの基礎の理解と利用<br>
 
