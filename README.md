@@ -74,4 +74,12 @@ Babascore2： https://apps.apple.com/us/app/babascore2/id1468592706
     バージョン変更による動作確認
 
 #### 大手建機メーカー系でのWeb開発(2019年4月~現在)
-
+- 設計
+  - システム移行による仕様変更、新たなAPIの設計
+- コーディング
+  - HTML,CSS,JavaScript<br>
+  Azure開発者ポータルのレイアウトを変更
+  - C#,VB.NET<br>
+  API開発<br>API性能改善<br>SPAの機能追加・バグ修正
+- テスト
+  - API動作確認・単体テスト・結合テスト
